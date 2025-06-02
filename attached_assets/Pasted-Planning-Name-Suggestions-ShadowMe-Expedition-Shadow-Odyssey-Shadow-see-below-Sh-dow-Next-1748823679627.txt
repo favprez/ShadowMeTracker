@@ -1,0 +1,265 @@
+Planning
+Name Suggestions:
+
+ShadowMe
+Expedition Shadow
+Odyssey Shadow (see below)
+Sh@dow
+Next Phase
+Venture Rise
+NexStep
+Shadow4Me
+
+
+(Concept art for “Odyssey Shadow”... if we run with this, inspiration for Royce)
+ODYSSEY
+        H
+        A
+        D
+        O
+        W
+(The letter “T” stands for “Try” for encouraging people to try something new)
+
+SHARK TANK GOAL:
+you'll need to make them feel the problem, see your solution as scalable, and believe you’re the right team to make it happen
+Slides: 
+Possible Slides: 
+https://www.canva.com/templates/EAGYN97RYWQ/ 
+https://www.canva.com/templates/EAFP0e6PXP8/ (Free)
+https://www.canva.com/templates/EAEmkWMjkLI-black-and-pink-thin-geometric-lines-sales-pitch-sales-presentation/
+https://www.canva.com/templates/EADaoEwgaDI-red-and-black-co-working-space-pitch-deck-presentation/ 
+
+
+Slide 1: Opener Stating the problem Royce
+The empathizer
+To introduce the issue with emotion and urgency  
+Asking the sharks questions Ex: how many students graduate without ever truly experiencing the careers they pursue. Long internships are rare, competitive, and often disappointing. Most of us are forced to choose a path based on a job title not passion
+Slide 2: The Solution(Product Overview) Favian
+The Visionary 
+Highlight
+User Journey (Student + Business) 
+What makes this better than traditional internships 
+Slide 3: Business Model Rahul
+Business Model
+How we operate 
+Freemium for students
+Subscription/listing fees from businesses
+Licensing to schools/universities
+Long-term: career data insights for institutions
+Government Grants for our services
+
+Slide 4: Market, Impact, and Traction Zary
+The Analyst 
+Market size estimate
+Show demand, scale, and impact.
+State how there are a high number of young people who are experiencing a sense of uncertainty and doomerism in their future and careers.
+Show Market Size estimate , Survey results , and etc 
+Slide 5: The Ask & Vision Enrique
+The Closer 
+Inspire, ask for support, and end strong.
+Closes the show tells the sharks why they should invest in us. 
+
+Responsibilities
+Presenters
+Enrique
+Favian
+Rahul
+Zary
+Royce
+Customer Discovery
+Primary Research (live/direct feedback) - Tanisha
+Secondary Research (online search) - Zary
+Opportunity and Market Overview - Executive Summary - Favian
+BMC topics (please have in headline-form [a couple bullet points] for the BMC template and then paragraph-form for the document)
+Customer Segmentation - Zary
+Value proposition - Favian
+Channels - Enrique
+Customer Relationships - Boaz
+Revenue Streams - Rahul
+Key Resources - Rahul
+Key Activities - Favian, Ashlie
+Key Partnerships - Boaz
+Cost Structure - Enrique
+Assemble BMC template using strategyzer - Falon
+Logo (PLEASE include color scheme) - Royce
+Prototype (app page samples) - Royce
+Competitive Landscape-  Enrique
+Distinctive Benefits - Falon, Ashlie 
+Slideshow Shopping
+Slideshow Formatting
+
+See class 9 slideshow related to BMC:
+
+Polishing the Idea
+Ideating the Idea
+“Sayings” we could use:
+“Exploring the job market, recruiting for the future”
+First part is for those looking for a job-shadow opportunity, the second part is for the niche businesses themselves
+“Where ‘a job’ becomes an adventure”
+“Your passion is our prospect”
+
+“Abstract” ideas:
+To the student:
+[Insert name] is an app that facilitates job searching while gaining industry experience. Rather than competing for a month-long internship at a big brand company that you just want to explore, [insert name] connects you with 1-2 week, unique shadowing opportunities. A job should be more than a way to save for retirement. There is rewarding work out there that is right for you, and we at [insert name] are here to help! With how diverse the job market is, a general search may leave you wondering if your dream career even exists. You may not see these job titles on the “top paying jobs” list, but our goal at [insert name] is for you to find your fit where you can contribute to society in a fun and rewarding way with your salary feeling like a bonus. This short term shadowing opportunity allows for frequent, rapid exploration of your skills, talents, and interests. Rather than one internship that can take up your entire summer, there is the possibility of trying three, maybe even more, jobs in the same span of time. There is more to life than making money and paying bills. There is a place in the market for you, and we at [insert name] want to help you get there. 
+To the business offering the shadow
+[Insert name] endeavors to foster curiosity for your business. Your business may be what sparks someone’s passion. We at [insert name] understand that not everything can be learned in a classroom. Your business can be the very experience that someone needs to realize their potential in the marketplace. Opening your doors to the curious will not only help others find their dream job, but also help you find your dream employees. Coming from the perspective of curiosity rather than a cold interview for a job from the start can help you and your shadow get to know if this could be that future employee that your business needs. There’s also nothing like a word of mouth recommendation. One shadow may not plan to proceed in your business’s industry, but that shadow can recruit others who can then recruit others. The possibilities are endless!
+
+Ideas for business offering 
+With job shadowing include things like certifications for certain industries 
+Use government grants that are in place that allow businesses to receive money that aim to help individuals gain skills and credentials to enter or advance in their careers
+Find industries where careers are stagnant, in decline, or not seen enough growth
+The data collected from user applications can be then used with schools, businesses, and local governments about future career and industry interest
+Have schools, business, and local governments pay. 
+
+Brainstorm during meeting
+Opener Ideas
+Emotionally attached relatability - questions
+We be middle man
+Sort through resumes to sort them based on info from business
+Send picks and receive message from denied
+Make money
+Business “rent”
+Certification course offerings? With the business
+one free completed Shadow, students with school partnerships to pay, students discounted, monthly payment for non-students, grants 
+Market Segment
+Students
+Older people who want to get back in the job market
+Empty nesters
+Phases = geographical expansion
+Notifications
+Limited number of applicants, diverse number of opportunities
+Tell businesses keywords to use, A.I.
+Goal is to provide constructive response
+Premium feature: notifications for specific jobs you would be interested in.
+Brainstorming Info from Sunday-Meeting
+Info: An app where you can scroll and look for 1-2 week internships at random businesses to try out jobs you never knew existed. (Kinda Like Dirty Jobs) 
+Approvals: TA, FB, EL, AG
+Problem Statement: young people often graduate without real insight into what many jobs actually involve day-to-day, leading to career mismatches, wasted time, and dissatisfaction
+Solution: A short term internship and job shadowing platform where users can scroll through 1-2 week career “ tryouts” at business across a wide range of industries, including niche and unexpected jobs
+Target Market: Age between 16-25 students or young adults that are interested or don’t know what career to do. 
+Key Features:
+First time use: personal assessment for possible job matches
+Tinder-like? 
+Picture, quick glance
+Less text-heavy
+Explore roles with short video intro from employers 
+Filter by location, interest area, or work style 
+Track what you learned and earn badges for simpleton 
+Leave/receive reviews about your experience 
+Local Business post listing, requirements and expectations 
+Revenue Model: 
+Business pay a listing/subscription fee to post opportunities 
+Students access for free 
+Optional in app purchases and premium 
+Marketing: 
+partners with schools, colleges, and guidance counselors 
+Promote heavily on social media like youtube and tiktok 
+High unconventional career paths 
+Competitor
+linked in 
+handshake 
+social media 
+Micro Internship sites
+Parker Duey 
+InternXL.org
+
+Written Works
+(Where to work on your portion. Please DO NOT worry about formatting right now. Content is the goal.)
+Overall title: Opportunity and Market Overview - Favian
+
+Distinctive Benefits - Falon and Ashlie
+For students: exploration of niche jobs, fosters curiosity, more room for “trial and error” for interests/skills, networking opportunities, can try multiple different industries in a short period of time, (for high school aged students) can help determine college major or (for college students) modify/change major, encourages experimentation (act, learn, REFLECT, repeat)
+For businesses: more publicity, employee “interview” (less need for references?), word of mouth recognition, less paperwork with short term “shadow,” not as long of a “commitment” as month-ish long internship, faster planning and execution, current employees don’t have to designate as much time to shadows than to interns
+
+Customer Segmentation - Zary
+High School Students 
+Geographic: Primarily in surburban/urban school districts.
+Demographic: Ages 14-18 enrolled in high schools. 
+Psychographic: Curious to explore paths early, values hands-on experience. 
+Behavioral: Discover opportunities via guidance counselors, responsive to obtaining certifications or badges. 
+
+College Students 
+Geographic: Local community colleges or universities; eventual expansion across the country. 
+Demographic: Ages 18-24, part-time or full-time undergraduates students pursuing any level of degree. 
+Psychographic: Unsure of career field, wants to try out industries before committing, motivated to add concrete skills or certificates to resumes. 
+Behavioral: Frequently visits career centers or websites, open to virtual/in-person job shadowing.
+
+Early-Career or Career Changing Adults: 
+Geographic: Local regions, allowed to commute to businesses or job shadowing positions, remote options available. 
+Demographic: Ages 24-50, unemployed or employed yet seeking a career change. 
+Psychographic: Motivated about a career field or change, wants valuable experience before investing in a degree or career training. 
+Behavioral: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Business Model - Rahul
+
+
+Value Proposition
+(For students)
+Our app empowers students and young adults to quickly and affordably explore different industries through short-term (1-2 week) job shadowing opportunities. Instead of committing to a single long internship or guessing your career path, our platform lets you test-drive multiple jobs, discover what excites you, gain career skill, and create more confident decisions about your future. 
+Flexible experiences that fit your schedule
+Access to industries you never knew existed
+Build your resume and discover your fit—faster
+Affordable and accessible (free tier + low-cost premium)
+
+(For Business) 
+ helps businesses attract curious, motivated individuals who are exploring career options. By offering short-term shadowing opportunities, you showcase your workplace, spark potential hires, and build brand awareness all without the commitment of a traditional internship or job posting.
+Low-effort way to inspire future talent
+Opportunity to identify promising individuals organically
+Increased visibility and reputation as a community-oriented company
+Word-of-mouth marketing from student ambassadors
+Channels of Delivery/Marketing - Enrique
+Some channels of marketing that we will utilize to reach our target audience are Social Media platforms, local advertising, small-scale events and informational sessions. Our initial and main form of channel for delivery will be the startup website and a mobile app (later stage). University partnerships and online job boards will be used to attract users and employers. For our awareness channels, we will integrate peer ambassadors and influencers to attract a larger audience, emphasizing the participation from different campuses to cater to our target audience. We can create blog content to suit viewers and engage in SEO to optimize blog articles. These channels will be relatively low in cost to operate in and can gain mass traction.
+
+
+Customer Relations
+
+Revenue Streams
+
+Key Resources: List the assets, infrastructure, and capabilities required to deliver your value proposition, reach customers, and sustain the business.
+Our assets our online platform.
+Our infrastructure would be our website and applications.
+Our capabilities would be mainly posting on social media, start-up personnel, customer feedback, customer support, and ambassadors.
+
+
+
+
+Key Partnerships 
+
+Cost Structure 
+Fixed Costs: Involve website costs.
+Website hosting (AWS, Bluehost, GoDaddy): $50/month
+Backend Services (Firebase, Supabase, AWS RDS): $250/month
+Web Maintenance & Security (bug fixes, SSL cert): $250/month
+Total: $550/Month
+
+Variable Costs: Promoting Costs and Outreach
+Event Coordinating (Mixers and Info-Session): $100
+Promotional Materials (social media ads, graphics): $300/month
+Staff/Ambassador Support Stipend: $125
+Printed Materials (Local Scale): $50
+Total: $525
+
+Future Costs: App Development
+UI/UX Design (Wireframes, visual branding): $2,500
+Frontend Development ([iOS and Android Code] React Native, Flutter): $10,000
+APIs (Resume parsing, push notifs): $500
+QA Testing & Debugging (Bugs, crashes, usability with scaling): $750
+App Store Launch (Dev License, Apple/year or Google/one-time): $99/yr or $25
+Post-Launch Maintenance (Updates, server loads): $500/month
+
+These costs can be utilized to determine pricing decisions and profitability analyses for our startup.
+
+Competitive Landscape - Enrique
+There are several competitors within our market sector that present a high barrier of entry for our target audience. Handshake targets the same audience with internships and job listings. WayUp emphasizes early career roles and DEI-focused employers. Indeed is an early career filter platform and is an indirect competition due to its scale and reach. LinkedIn contains student profiles and is widely used by students for resumes, branding, and connections. Our indirect competitors would be Coursera, Skillshare, and Tallo for skill-building practices that present certificates or career discovery for early professionals.21
