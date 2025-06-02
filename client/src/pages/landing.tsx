@@ -203,6 +203,15 @@ export default function Landing() {
               </Button>
             </div>
             
+            <div className="mt-6 text-center">
+              <a 
+                href="/opportunities" 
+                className="inline-flex items-center text-red-100 hover:text-white transition-colors underline underline-offset-4"
+              >
+                Browse All Unique Opportunities <ArrowRight className="ml-2 h-4 w-4" />
+              </a>
+            </div>
+            
             <div className="mt-12 flex flex-wrap justify-center gap-8 text-red-100">
               <div className="flex items-center space-x-2">
                 <CheckCircle className="w-5 h-5" />
