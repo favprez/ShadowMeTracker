@@ -215,11 +215,11 @@ export default function Landing() {
             <div className="mt-12 flex flex-wrap justify-center gap-8 text-red-100">
               <div className="flex items-center space-x-2">
                 <CheckCircle className="w-5 h-5" />
-                <span>1-2 Week Experiences</span>
+                <span>1-2 Week Shadowing Experiences</span>
               </div>
               <div className="flex items-center space-x-2">
                 <CheckCircle className="w-5 h-5" />
-                <span>Free for Students</span>
+                <span>Free First Shadow Experience</span>
               </div>
               <div className="flex items-center space-x-2">
                 <CheckCircle className="w-5 h-5" />
@@ -349,7 +349,7 @@ export default function Landing() {
           <div className="grid lg:grid-cols-2 gap-12 items-center">
             <div>
               <h2 className="text-3xl md:text-4xl font-bold text-foreground mb-6">Partner With Us</h2>
-              <p className="text-xl text-muted-foreground mb-8">Help shape the next generation while discovering your future talent</p>
+              <p className="text-xl text-muted-foreground mb-8">Help shape the next generation while discovering future talent</p>
               
               <div className="space-y-6">
                 <div className="flex items-start space-x-4">
@@ -432,7 +432,7 @@ export default function Landing() {
       <section className="gradient-cta py-20">
         <div className="max-w-4xl mx-auto text-center px-4 sm:px-6 lg:px-8">
           <h2 className="text-3xl md:text-4xl font-bold text-white mb-6">Ready to Discover Your Future?</h2>
-          <p className="text-xl text-blue-100 mb-8">Join thousands of students already exploring their dream careers</p>
+          <p className="text-xl text-red-100 mb-8">Join thousands of students already exploring their dream careers</p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Button 
               size="lg"

@@ -59,11 +59,9 @@ export default function Opportunities() {
   const [selectedOpportunity, setSelectedOpportunity] = useState<any>(null);
 
   const { data: opportunities = [], isLoading } = useQuery({
-    queryKey: ["/api/opportunities", { 
-      industry: industryFilter, 
-      location: locationFilter, 
-      isRemote: remoteFilter ? remoteFilter === 'true' : undefined 
-    }],
+    queryKey: ["/api/opportunities"],
+    retry: 3,
+    staleTime: 5 * 60 * 1000, // 5 minutes
   });
 
   const form = useForm<ApplicationForm>({
