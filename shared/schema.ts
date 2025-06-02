@@ -75,7 +75,7 @@ export const businessProfiles = pgTable("business_profiles", {
 // Job shadowing opportunities table
 export const opportunities = pgTable("opportunities", {
   id: serial("id").primaryKey(),
-  businessProfileId: integer("business_profile_id").references(() => businessProfiles.id).notNull(),
+  businessProfileId: integer("business_profile_id").references(() => businessProfiles.id),
   title: varchar("title").notNull(),
   description: text("description").notNull(),
   industry: varchar("industry").notNull(),
