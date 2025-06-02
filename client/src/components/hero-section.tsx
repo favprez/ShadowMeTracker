@@ -44,7 +44,7 @@ export default function HeroSection() {
             Discover Your<br />
             <span className="text-accent">Dream Career</span>
           </h1>
-          <p className="text-xl md:text-2xl text-blue-100 mb-8 max-w-3xl mx-auto">
+          <p className="text-xl md:text-2xl text-red-100 mb-8 max-w-3xl mx-auto">
             Skip the guesswork. Experience real careers through short-term job shadowing opportunities with local businesses.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
@@ -67,7 +67,7 @@ export default function HeroSection() {
             </Button>
           </div>
           
-          <div className="mt-12 flex flex-wrap justify-center gap-8 text-blue-100">
+          <div className="mt-12 flex flex-wrap justify-center gap-8 text-red-100">
             <div className="flex items-center space-x-2">
               <CheckCircle className="w-5 h-5" />
               <span>1-2 Week Experiences</span>
