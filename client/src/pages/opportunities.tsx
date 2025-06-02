@@ -99,6 +99,15 @@ export default function Opportunities() {
     if (!isAuthenticated) {
       toast({
         title: "Login Required",
+        description: "Please log in to apply for opportunities",
+        variant: "default",
+      });
+      window.location.href = "/api/login";
+      return;
+    }
+    if (!user?.userType || user.userType !== 'student') {
+      toast({
+        title: "Login Required",
         description: "Please log in to apply for opportunities.",
         variant: "destructive",
       });
